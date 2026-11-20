@@ -1,0 +1,17 @@
+{
+  "name": "fronzyy-5-haneli-nick-botu",
+  "version": "1.0.0",
+  "description": "5 haneli Discord kullanıcı adı kontrol botu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "express": "^4.21.2"
+  }
+}
